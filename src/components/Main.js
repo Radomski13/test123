@@ -37,7 +37,7 @@ export default function Main() {
                         <h2>The Swamp DAO</h2><br /><br />
                         <div className="vote-img">
                             <div className="faq-content">
-                                <span>Every holder can join the DAO & make a decision on how the commuity will grow or function. You will be able to vote on which NFTs to fractionalize, what community made projects should be brought to life & much more.<br /><br />1 frog = 1 vote</span>
+                                <span>Every hojjlder can join the DAO & make a decision on how the commuity will grow or function. You will be able to vote on which NFTs to fractionalize, what community made projects should be brought to life & much more.<br /><br />1 frog = 1 vote</span>
                             </div>
         <img src={vote} alt="vote_img" />
         </div>
