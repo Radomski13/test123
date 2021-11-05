@@ -51,7 +51,7 @@ export default function Main() {
 
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 <br /><br />
-              <span>Genesis</span><br /><br /> 
+              <span>Genesis Frogs</span><br /><br /> 
 <p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
 <li>The first 32 will be airdropped to holders with a certain amount of $TOKEN.</li>
 <li>64 remaning will be stealth dropped to be purchased with ETH.</li>
