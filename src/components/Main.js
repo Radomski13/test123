@@ -52,13 +52,13 @@ export default function Main() {
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 <br /><br />
               <span>Genesis</span><br /><br /> 
-<p>The genesis are the first of there kind. Only ___ exist in the universe. All animated one of ones with a custom background. Some of their utilities are still being researched in the lab. All we know is:</p><br />
+<p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
 <li>The first ___ will be airdropped to holders with a certain amount of $TOKEN.</li>
 <li>___ remaning will be stealth dropped to be purchased with ETH.</li>
 <li>They have access to Swamphalla. WOAH</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
-<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs are the only ones croak cuasing to yield a $TOKEN. Some of their other exciting utilities are: </p><br />
+<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
 <li>Fuseing any 2 frogs together for a mysterious creature.</li>
 <li>Unlocking exclusive channels in the Discord server.</li>
 <li>Having an vote in the community.</li>
@@ -66,7 +66,7 @@ export default function Main() {
 <li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
-<p>These are still being researched at the janky swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. The city of stars holds the technology used to decipher this.</p><br />
+<p>These are still being researched at the janky swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. Only the Utopia holds the technology used to decipher this.</p><br />
 <br />
 
           </div>
