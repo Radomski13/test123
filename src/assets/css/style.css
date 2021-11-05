@@ -34,10 +34,9 @@ p {
 	margin: auto;
 	background: #326693;
 }
-.p {
+.container p {
 	line-height: 1.3rem;
 	font-family: "Roboto",sans-serif;
-font-size: 1rem;
 
 }
 .container span {
