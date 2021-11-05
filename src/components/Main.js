@@ -40,7 +40,7 @@ export default function Main() {
           <br />
           <div className="container">
             <p>Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
-            Join a strong tight-knit community and enjoy benefits only
+            Join a strong tight-knit community and enjoy utility/benefits only
             to swampverse holders. Our goal is to help anyone journey their way
             into the NFT world successfully while having fun.</p><br /><br /><br />
               <span>About Swampverse</span><br /><br />
