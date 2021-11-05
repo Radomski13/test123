@@ -17,10 +17,7 @@ export default function Main() {
           <div className="header-container container-pd mb text-center">
           <br />
           <p>
-            Where 9600 generated frogs croak on the Ethereum blockchain.
-            Join a strong tight-knit community and enjoy benefits only
-            to swampverse holders. Our goal is to help anyone journey their way
-            into the NFT world successfully while having fun.
+            MINT BUTTON PLACEMENT
           </p>
         </div>
         </div>
@@ -49,13 +46,13 @@ export default function Main() {
               <span>About Swampverse</span><br /><br />
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 
-              <span>Swampverse Genesis</span><br /> 
-<p>Swampverse Genesis were the first of there kind. Only ___ exist in the ecosystem. All animated one of ones with a custom background. Some of their utilities are are still being researched in the lab. All we know is:</p><br />
+              <span>Genesis</span><br /> 
+<p>The Genesis are the first of there kind. Only ___ exist in the universe. All animated one of ones with a custom background. Some of their utilities are are still being researched in the lab. All we know is:</p><br />
 <li>The first ___ will be airdropped to holders with a certain amount of $TOKEN.</li>
 <li>___ remaning will be stealth dropped to be purchased with ETH.</li>
 <li>They have access to Swamphalla. WOAH</li>
 <br />
-  <span>Swampverse Frogs</span><br /> 
+  <span>Frogs</span><br /> 
 <p>In order to expand & save the Swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
 <li>Fuse 2 Frogs to create a mysterious creature by spending __ $TOKEN.</li>
 <li>Unlock exclusive channels in the Swampverse Discord server.</li>
