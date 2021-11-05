@@ -60,9 +60,9 @@ export default function Main() {
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
 <li>Fuse any 2 frogs together for a mysterious creature with $TOKEN.</li>
-<li>Unlocking exclusive channels in the Discord server.</li>
-<li>Having an vote in the community.</li>
-<li>Unlock a 3D / VX version by using _ $TOKEN.</li>
+<li>Unlock exclusive channels in the Discord server.</li>
+<li>Have an vote in the community.</li>
+<li>Unlock a 3D / VX version with _ $TOKEN.</li>
 <li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
@@ -77,9 +77,9 @@ export default function Main() {
           <br />
           <div className="container">
             <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
-<span>💸 Yield</span><br /><br />
+<span>⚙️ Yield</span><br /><br />
 <li>Every Swampverse frog yields _ $token a day. A hard day of croaking pays off.</li><br />
-<span>🧪 Fuse</span><br /><br />
+<span>🧬 Fuse</span><br /><br />
 <li>Fuse any two Swampverse frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</li><br />
 <span>🛍️ Shop</span><br /><br />
 <li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of hoodies, shirts & even a collectable.</li><br />
