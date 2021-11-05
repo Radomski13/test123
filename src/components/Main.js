@@ -53,11 +53,11 @@ export default function Main() {
 <li>They have access to Swamphalla. WOAH</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
-<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
+<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs are the only ones croak cuasing to yield a $TOKEN. Some of their other exciting utilities are: </p><br />
 <li>Fuseing & Breeding.</li>
-<li>Unlock exclusive channels in the Discord server.</li>
-<li>Have an vote in the community.</li>
-<li>Unlock a 3D / VX version by using _ $TOKEN.</li>
+<li>Unlocking exclusive channels in the Discord server.</li>
+<li>Having an vote in the community.</li>
+<li>Unlocking a 3D / VX version by using _ $TOKEN.</li>
 <li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
