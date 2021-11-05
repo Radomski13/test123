@@ -49,24 +49,24 @@ export default function Main() {
           <br />
           <div className="container">
 
-            <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
+            <p>Not so long ago, the Genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. In the years of exploration the genesis never seen a universe so vast & unexplored. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Every frog will once again live, croak and prosper together. But the journey just begins, The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone  gather's in Swampville to explore and conquer what comes next....</p><br />
 <br /><br />
               <span>Genesis Frogs</span><br /><br /> 
-<p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
+<p>The genesis are the first of there kind. Only 96 exist in the universe. All genesis are 1 of 1's, fully animated, inlcuding the background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
 <li>Only 32 will be airdropped to holders who hold a certain amount of $TOKEN.</li>
 <li>The 64 remaning will be stealth dropped.</li>
-<li>All genesis have access to Swamphalla.</li>
+<li>Gain access to Swamphalla.</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
-<li>Fuse any 2 frogs together for a mysterious creature with $TOKEN.</li>
+<li>Burn any 2 frogs together for a mysterious creature with X $TOKEN.</li>
 <li>Unlock exclusive channels in the Discord server.</li>
-<li>Have an vote in the community.</li>
-<li>Unlock a 3D / VX version with _ $TOKEN.</li>
-<li>Yield _ $TOKEN a day.</li>
+<li>Have a vote in the community.</li>
+<li>Unlock a 3D / VX version with X $TOKEN.</li>
+<li>Yield X $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
-<p>These mysterious swamp creatures are still being researched at the janky swampville lab on what they exactly do. The lore shows a name for them but it seems unreadable. Only the Utopia holds technology used to decipher the Lore.</p><br />
+<p>These mysterious swamp creatures are still being researched at the janky lab in Swampville on what they exactly do. The Lore shows a name for them but it seems to be unreadable. Only the technology founds in Utopia can be used to decipher the Lore currently...</p><br />
 <br />
 
           </div>
@@ -76,15 +76,15 @@ export default function Main() {
           <h1>Utility</h1> <br />
           <br />
           <div className="container">
-            <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
+            <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a PFP. It's about utility, building realtionships and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
 <span>⚙️ Yield</span><br /><br />
 <li>Every Swampverse frog yields X $token a day. A hard day of croaking pays off.</li><br />
 <span>🧬 Fuse</span><br /><br />
-<li>Fuse any two Swampverse frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</li><br />
+<li>Fuse any two Swampverse frogs in your wallet and burn X $TOKEN to recieve a mysterious swamp creature. !lurk</li><br />
 <span>🛍️ Shop</span><br /><br />
-<li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of hoodies, shirts & even a collectable.</li><br />
+<li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of hoodies, shirts & even a collectable will be available.</li><br />
 <span>🕹️ 3D / Voxil</span><br /><br />
-<li>Use your $TOKENS to get a 3D / VX version of your pixel frog. These will be used in the future for sandbox games & the metaverse.</li><br />
+<li>Use your $TOKENS to unlock a 3D / VX version of your pixel frog. These will be used for sandbox games & the metaverse.</li><br />
 <br /> 
 <p>1 TOKEN = 1 TOKEN</p>
           </div>
@@ -93,8 +93,8 @@ export default function Main() {
           <h1>The Future</h1> <br />
           <br />
           <div className="container">
-            <p>The Swampverse brand is filled with unique and randomly generated 2D Social Avatars for your online experiences, which boils down to gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to get a 3D / VX version by using the $TOKEN your frog generates. The Sandbox opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
-              It is our goal to inovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on some the future growth that the Swampverse creators will propose. We plan on having interacting with Sandbox and other blockchain games.</p>
+            <p>The Swampverse brand is filled with unique and randomly generated pixel creatures for your online experiences. Gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to unlock a 3D / VX version of your frog with $TOKEN. The Sandbox & Metaverse opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
+              It is our goal to innovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on some the future that the Swampverse creators will propose. We plan on interacting with Sandbox and other blockchain games. Hosting IRL events. Collaborate with other projects & much more we don't want to spoil.</p>
           </div>
         </div>
         <div className="gif-container border">
@@ -106,7 +106,7 @@ export default function Main() {
         <div className="container border container-pd mb faq">
           <h1>FAQ</h1> <br />
           <br />
-          <span>LAUNCH DATE?</span>
+          <span>MINT DATE?</span>
           <br />
           <p>To Be Announced</p>
           <br />
@@ -128,7 +128,7 @@ export default function Main() {
           <br />
           <span>WHITELIST?</span>
           <br />
-          <p>2200 / 2500 Spots filled</p>
+          <p>2200 / 2500 spots filled. 1000 public alert mint spots will be available after whitelist is full.</p>
           <br />
           <br />
         </div>
