@@ -53,7 +53,7 @@ export default function Main() {
 <br /><br />
               <span>Genesis Frogs</span><br /><br /> 
 <p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
-<li>Only 32 will be airdropped to holders with a certain amount of $TOKEN.</li>
+<li>Only 32 will be airdropped to holders who hold a certain amount of $TOKEN.</li>
 <li>The 64 remaning will be stealth dropped.</li>
 <li>All genesis have access to Swamphalla.</li>
 <br /><br /><br />
