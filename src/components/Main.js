@@ -3,6 +3,7 @@ import twitter_icon from "../assets/img/twitter.png";
 import Gif from "../assets/img/1.gif";
 import discord_icon from "../assets/img/discord.png";
 import twitterlogo from "../assets/img/twitterlogo.svg";
+import mint from "../assets/img/mint.png";
 import "../assets/css/style.css";
 
 export default function Main() {
@@ -15,10 +16,7 @@ export default function Main() {
             <h1>Swampverse</h1>
           </div>
           <div className="header-container container-pd mb text-center">
-          <br />
-          <p>
-            MINT BUTTON PLACEMENT
-          </p>
+          <a href=""><img src="{mint}" /></a>
         </div>
         </div>
       </div>
