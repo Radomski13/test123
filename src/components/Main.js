@@ -104,24 +104,28 @@ export default function Main() {
         <div className="container border container-pd mb faq">
           <h1>FAQ</h1> <br />
           <br />
-          <span>LAUNCH DATE?</span> <br />
-          <p>To be announced</p>
+          <span>LAUNCH DATE?</span>
+          <br />
+          <p>To Be Announced</p>
           <br />
           <br />
-          <span>HOW MANY IN TOTAL?</span> <br />
-          <p>9600 Frogs</p><br />
-          <p>96 Genesis Frogs</p>
+          <span>HOW MANY IN TOTAL?</span>
+          <br />
+          <p>9600</p>
           <br />
           <br />
-          <span>BLOCKCHAIN?</span> <br />
+          <span>BLOCKCHAIN?</span>
+          <br />
           <p>Ethereum</p>
           <br />
           <br />
-          <span>MINT PRICE?</span> <br />
+          <span>MINT PRICE?</span>
+          <br />
           <p>0.06 ETH</p>
           <br />
           <br />
-          <span>WHITELIST?</span> <br />
+          <span>WHITELIST?</span>
+          <br />
           <p>2200 / 2500 Spots filled</p>
           <br />
           <br />
@@ -190,6 +194,7 @@ export default function Main() {
               <br />
               <p>Marketing / NFT Analyst</p>
             </div>
+<p>Banner & Swampmap made by jDojo <3</p>
           </div>
         </div>
       </div>
