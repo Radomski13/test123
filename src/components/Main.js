@@ -134,28 +134,13 @@ export default function Main() {
         </div>
 
         <div className="container border container-pd mb">
-          <h1>SWAMPMAP</h1> <br />
+          <h1>SWAMPMAP v1</h1> <br />
           <br />
-          <span>LAUNCH</span>
           <div className="in-progress-list">
-          <li>Complete minting of frogs</li>
-<li>Opensea reveal & rarity.tools listing</li>
-          <li>Swampville welcomes everyone. Private discord opens</li>
-          </div>
-          <br />
-          <span>SWAMPMAP v1</span>
-          <div className="in-progress-list">
-            <li>
-              25% - We host our fist twitter space. 10 random frogs will also be airdropped to holders.
-            </li>
-            <li>
-              50% - You can now begin to croak for a token. A website will be available to stake (croak) or unstake (uncroak) your frog.
-            </li>
-            <li>
-              75% - 1st merchandise drop. Limited to only 50 of each item. Community will also vote to ether sweep the floor or buy a bluechip for a host giveaway to holders. 
-            </li>
-            <li>
-              100% - City of stars, the lore shows symbols of this vast utopia that still needs more deciphering. Let's host a IRL party to kill the time. Miami? Bali? LA?
+              <span>25%</span> <p>Complete minting of all 9600 frogs. Opensea reveal after sell out & rarity.tools listing.</p>
+              <span>50%</span> <p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p>
+              <span>75%</span> <p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p>
+              <span>100%</span> <p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p>
             </li>
           </div>
           <br />
