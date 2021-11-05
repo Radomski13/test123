@@ -38,6 +38,9 @@ p {
 	line-height: 1.3rem;
 	font-family: "Roboto",sans-serif;
 }
+.container span {
+color: #fff;
+}
 .container li {
 	color: #fff;
 	font-family: "Roboto",sans-serif;
@@ -121,6 +124,8 @@ p {
 .in-progress-list li {
 color: #fff;
 font-family: "Roboto",sans-serif;
+line-height: 1.3rem;
+
 }
 .in-progress-list span {
 	color: #fff;
