@@ -57,7 +57,7 @@ export default function Main() {
           <div className="container">
             <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
 <span>Yield</span>
-<p>Every Swampverse frog yields _ $token a day. A hard of croaking pays off.<br />
+<p>Every Swampverse frog yields _ $token a day. A hard of croaking pays off.</p><br />
 <span>Breed</span>
 <p>Hold any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve an tad pole</p><br />
 <span>Fuse</span>
