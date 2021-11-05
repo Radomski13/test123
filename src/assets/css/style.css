@@ -36,9 +36,11 @@ p {
 }
 .container p {
 	line-height: 1.3rem;
+	font-family: "Roboto",sans-serif;
 }
 .container li {
 	color: #fff;
+	font-family: "Roboto",sans-serif;
 }
 .bg-container {
 	background-color: #326693;
