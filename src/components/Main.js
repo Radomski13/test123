@@ -54,9 +54,11 @@ export default function Main() {
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
-<li>Fuse 2 Frogs to create a mysterious creature by spending __ $TOKEN.</li>
-<li>Unlock exclusive channels in the swampverse Discord server.</li>
-<li>Have an vote in the community</li>
+<li>Fuseing & Breeding.</li>
+<li>Unlock exclusive channels in the Discord server.</li>
+<li>Have an vote in the community.</li>
+<li>Unlock a 3D / VX version by using _ $TOKEN.</li>
+<li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
 <p>These are still being researched at the janky swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. The city of stars holds the technology used to decipher this.</p><br />
