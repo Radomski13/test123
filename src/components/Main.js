@@ -169,7 +169,7 @@ export default function Main() {
                 <a href="https://twitter.com/0xWart"><img src={twitterlogo} alt="twitterlogo" /></a>
               </div>
               <br />
-              <span>Creator / Front-end Developer</span>
+              <p>Creator / Front-end Developer</p>
             </div>
           </div>
           <div className="builder">
@@ -180,7 +180,7 @@ export default function Main() {
                 <a href="https://twitter.com/SV_Ogre"><img src={twitterlogo} alt="twitterlogo" /></a>
               </div>
               <br />
-              <span>Manager / Crypto Analyst</span>
+              <p>Manager / Crypto Analyst</p>
             </div>
           </div>
           <div className="builder">
@@ -191,7 +191,7 @@ export default function Main() {
                 <a href="https://twitter.com/NFT_Junkiee"><img src={twitterlogo} alt="twitterlogo" /></a>
               </div>
               <br />
-              <span>Marketing / NFT Analyst</span>
+              <p>Marketing / NFT Analyst</p>
             </div>
           </div>
         </div>
