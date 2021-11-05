@@ -141,7 +141,6 @@ export default function Main() {
               <span>50%</span> <p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p>
               <span>75%</span> <p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p>
               <span>100%</span> <p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p>
-            </li>
           </div>
           <br />
         </div>
