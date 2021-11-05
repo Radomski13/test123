@@ -39,7 +39,7 @@ export default function Main() {
           <h1>What is Swampverse</h1> <br />
           <br />
           <div className="container">
-            <p>Where 9600 generated frogs croak on the Ethereum blockchain.
+            <p>Swampverse is the home of 9600 pixel generated frogs croak on the Ethereum blockchain. 
             Join a strong tight-knit community and enjoy benefits only
             to swampverse holders. Our goal is to help anyone journey their way
             into the NFT world successfully while having fun.</p><br /><br /><br />
@@ -47,19 +47,19 @@ export default function Main() {
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 <br /><br />
               <span>Genesis</span><br /><br /> 
-<p>The Genesis are the first of there kind. Only ___ exist in the universe. All animated one of ones with a custom background. Some of their utilities are are still being researched in the lab. All we know is:</p><br />
+<p>The genesis are the first of there kind. Only ___ exist in the universe. All animated one of ones with a custom background. Some of their utilities are are still being researched in the lab. All we know is:</p><br />
 <li>The first ___ will be airdropped to holders with a certain amount of $TOKEN.</li>
 <li>___ remaning will be stealth dropped to be purchased with ETH.</li>
 <li>They have access to Swamphalla. WOAH</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
-<p>In order to expand & save the Swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
+<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
 <li>Fuse 2 Frogs to create a mysterious creature by spending __ $TOKEN.</li>
-<li>Unlock exclusive channels in the Swampverse Discord server.</li>
+<li>Unlock exclusive channels in the swampverse Discord server.</li>
 <li>Have an vote in the community</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
-<p>These are still being researched @ the janky Swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. The City of Stars holds the technology used to read this.</p><br />
+<p>These are still being researched at the janky swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. The city of stars holds the technology used to decipher this.</p><br />
 <br />
 
           </div>
@@ -70,12 +70,22 @@ export default function Main() {
           <br />
           <div className="container">
             <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
-<span>Yield</span>
+<span>Yield</span><br />
 <p>Every Swampverse frog yields _ $token a day. A hard day of croaking pays off.</p><br />
-<span>Fuse</span>
+<span>Fuse</span><br />
 <p>Fuse any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</p>
-<span>Shop</span>
+<span>Shop</span><br />
 <p>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of Hoodies, Shirts & a collectable.</p>
+<span>3D / Voxil</span><br />
+<p>Use your $TOKENS to get a 3D/Voxil version of of pixel frog. These will be used in the future for sandbox games & the metaverse.</p>
+          </div>
+        </div>
+<div className="container border container-pd mb">
+          <h1>The Future</h1> <br />
+          <br />
+          <div className="container">
+            <p>The Swampverse Brand is filled with unique and randomly generated 2D Social Avatars for your online experiences, which boils down to gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to get a 3D/VX version with the utility of the frogs. The Sandbox opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
+              It is our goal to inovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on some the future growth that the Swampverse creators will propose. We plan on having interacting with Sandbox and other blockchain games.</p>
           </div>
         </div>
         <div className="gif-container border">
