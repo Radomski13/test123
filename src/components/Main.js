@@ -82,7 +82,7 @@ export default function Main() {
 <span>🧪 Fuse</span><br /><br />
 <li>Fuse any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</li><br />
 <span>🛍️ Shop</span><br /><br />
-<li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of Hoodies, Shirts & a collectable.</li><br />
+<li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of hoodies, shirts & even a collectable.</li><br />
 <span>🕹️ 3D / Voxil</span><br /><br />
 <li>Use your $TOKENS to get a 3D / VX version of your pixel frog. These will be used in the future for sandbox games & the metaverse.</li>
           </div>
