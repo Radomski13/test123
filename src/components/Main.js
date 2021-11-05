@@ -138,10 +138,10 @@ export default function Main() {
           <h1>SWAMPMAP v1</h1> <br />
           <br />
           <div className="in-progress-list">
-              <span>25%</span> <br /><br /><p>Complete minting of all 9600 frogs. Opensea reveal after sell out & rarity.tools listing.</p>
-              <span>50%</span> <br /><br /><p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p>
-              <span>75%</span> <br /><br /><p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p>
-              <span>100%</span> <br /><br /><p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p>
+              <span>25%</span> <br /><p>Complete minting of all 9600 frogs. Opensea reveal after sell out & rarity.tools listing.</p><br /><br />
+              <span>50%</span> <br /><p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p><br /><br />
+              <span>75%</span> <br /><p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p><br /><br />
+              <span>100%</span> <br /><p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p><br /><br />
           </div>
           <br />
         </div>
