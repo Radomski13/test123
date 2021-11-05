@@ -77,14 +77,14 @@ export default function Main() {
 <span>🛍️ Shop</span><br /><br />
 <li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of Hoodies, Shirts & a collectable.</li><br />
 <span>🕹️ 3D / Voxil</span><br /><br />
-<li>Use your $TOKENS to get a 3D/Voxil version of of pixel frog. These will be used in the future for sandbox games & the metaverse.</li>
+<li>Use your $TOKENS to get a 3D / VX version of your pixel frog. These will be used in the future for sandbox games & the metaverse.</li>
           </div>
         </div>
 <div className="container border container-pd mb">
           <h1>The Future</h1> <br />
           <br />
           <div className="container">
-            <p>The Swampverse Brand is filled with unique and randomly generated 2D Social Avatars for your online experiences, which boils down to gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to get a 3D/VX version with the utility of the frogs. The Sandbox opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
+            <p>The Swampverse Brand is filled with unique and randomly generated 2D Social Avatars for your online experiences, which boils down to gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to get a 3D / VX version by using the $TOKEN your frog generates. The Sandbox opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
               It is our goal to inovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on some the future growth that the Swampverse creators will propose. We plan on having interacting with Sandbox and other blockchain games.</p>
           </div>
         </div>
