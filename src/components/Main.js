@@ -70,13 +70,13 @@ export default function Main() {
           <br />
           <div className="container">
             <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
-<span>Yield</span><br />
+<span>Yield</span><br /><br />
 <li>Every Swampverse frog yields _ $token a day. A hard day of croaking pays off.</li><br />
-<span>Fuse</span><br />
+<span>Fuse</span><br /><br />
 <li>Fuse any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</li><br />
-<span>Shop</span><br />
+<span>Shop</span><br /><br />
 <li>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of Hoodies, Shirts & a collectable.</li><br />
-<span>3D / Voxil</span><br />
+<span>3D / Voxil</span><br /><br />
 <li>Use your $TOKENS to get a 3D/Voxil version of of pixel frog. These will be used in the future for sandbox games & the metaverse.</li>
           </div>
         </div>
