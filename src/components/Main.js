@@ -15,6 +15,16 @@ export default function Main() {
           <div className="site-heading">
             <h1>Swampverse</h1>
           </div>
+     <div className="social-container">
+          <div className="social-icon">
+            <a href="https://twitter.com/SwampverseNFT">
+              <img src={twitter_icon} alt="twitter" />
+            </a>
+            <a href="https://discord.gg/swampverse">
+              <img src={discord_icon} alt="discord" />
+            </a>
+          </div>
+        </div>
           <div className="header-container container-pd mb text-center">
           <a href="https://swamps.io/#"><img src={mint} width="80%" height="80%" alt="mint" /></a>
         </div>
@@ -91,17 +101,6 @@ export default function Main() {
         <div className="gif-container border">
           <div className="gif-wrapper">
             <img src={Gif} alt="1Gif" />
-          </div>
-        </div>
-        <div className="social-container">
-          <h2>Join the Swamp</h2>
-          <div className="social-icon">
-            <a href="https://twitter.com/SwampverseNFT">
-              <img src={twitter_icon} alt="twitter" />
-            </a>
-            <a href="https://discord.gg/swampverse">
-              <img src={discord_icon} alt="discord" />
-            </a>
           </div>
         </div>
 
