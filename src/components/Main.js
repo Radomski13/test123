@@ -16,7 +16,7 @@ export default function Main() {
             <h1>Swampverse</h1>
           </div>
           <div className="header-container container-pd mb text-center">
-          <a href=""><img src="{mint}" alt="mint" /></a>
+          <a href="#"><img src={mint} alt="mint" /></a>
         </div>
         </div>
       </div>
