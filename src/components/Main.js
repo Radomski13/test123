@@ -42,20 +42,26 @@ export default function Main() {
           <br />
           <div className="container">
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. Tired, the genesis under looks a problem, their new home is so vast & unexplored they need help but with time running low. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....<br />
-<br />Every frog likes to croak. They are also important to the Swampconomy. You'll be able to croak (stake) for a token in Swampmap v2.</p><br /><br />
-<p>Use this token to:</p><br />
-<li>Fuse frogs together for a mysterious swamp creature</li>
-<li>Breed & create tadpoles</li>
-<li>Claim limited merchandise that's not on the merch store</li>
-<br /><p>The mysterious swamp creatures & tadpoles are currently being researched in the lab on what they do. The lore is taking time to decipher.</p>
-<br /><br />
-<p>A new section in discord called Swampville will appear after mint and only available to Swampverse holders. Some additional sections like micro & macro analysis charts, community building & alpha will also be available.</p>
-<br /><br />
-<p>Genesis are 96 animated frogs from the Swampverse collection. The first of the Swampian race. To be released sometime after the main collection. They may also be summoned from Swamphalla.</p><br />
+
+              <span>Swampverse Genesis</span> 
+<p>Genesis are 96 animated frogs from the Swampverse collection. The first of the Swampian race. To be released sometime after the main collection.</p><br />
 <li>The first 32 will be airdropped to holders.</li>
 <li>64 will be stealth dropped</li>
 <br />
-<p>Tip: (a mysterious creature and 2 tadpoles will give you a better chance to get the airdrop)</p>
+<p>Tip: a mysterious creature and 2 tadpoles will give you a better chance to get the airdrop</p>
+          </div>
+        </div>
+<div className="container border container-pd mb">
+          <h1>Utility</h1> <br />
+          <br />
+          <div className="container">
+            <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
+<span>Yield</span>
+<p>Every Swampverse frog yields _ $token a day. A hard of croaking pays off.<br />
+<span>Breed</span>
+<p>Hold any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve an tad pole</p><br />
+<span>Fuse</span>
+<p>Swampverse Frogs arn't only used for breeding, Fuse any two Frogs with SWAMP RADIATION to receive a mysterious swamp creature. !lurk</p>
           </div>
         </div>
         <div className="gif-container border">
@@ -78,24 +84,24 @@ export default function Main() {
         <div className="container border container-pd mb faq">
           <h1>FAQ</h1> <br />
           <br />
-          <p>LAUNCH DATE?</p>
-          <span>TBA</span>
+          <span>LAUNCH DATE?</span>
+          <p>TBA</p>
           <br />
           <br />
-          <p>HOW MANY IN TOTAL?</p>
-          <span>9600</span>
+          <span>HOW MANY IN TOTAL?</span>
+          <p>9600</p>
           <br />
           <br />
-          <p>BLOCKCHAIN?</p>
-          <span>Ethereum</span>
+          <span>BLOCKCHAIN?</span>
+          <p>Ethereum</p>
           <br />
           <br />
-          <p>MINT PRICE?</p>
-          <span>0.06 ETH</span>
+          <span>MINT PRICE?</span>
+          <p>0.06 ETH</p>
           <br />
           <br />
-          <p>WHITELIST?</p>
-          <span>2100/2500 SPOTS FILLED</span>
+          <span>WHITELIST?</span>
+          <p>2100/2500 SPOTS FILLED</p>
           <br />
           <br />
           <p>
@@ -106,14 +112,14 @@ export default function Main() {
         <div className="container border container-pd mb">
           <h1>SWAMPMAP</h1> <br />
           <br />
-          <p>LAUNCH</p>
+          <span>LAUNCH</span>
           <div className="in-progress-list">
           <li>Complete minting of frogs</li>
 <li>Opensea reveal & rarity.tools listing</li>
           <li>Swampville welcomes everyone. Private discord opens</li>
           </div>
           <br />
-          <p>SWAMPMAP v1</p>
+          <span>SWAMPMAP v1</span>
           <div className="in-progress-list">
             <li>
               25% - We host our fist twitter space. 10 random frogs will also be airdropped to holders.
