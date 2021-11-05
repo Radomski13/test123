@@ -34,9 +34,11 @@ p {
 	margin: auto;
 	background: #326693;
 }
-.container p {
+.p {
 	line-height: 1.3rem;
 	font-family: "Roboto",sans-serif;
+font-size: 1rem;
+
 }
 .container span {
 color: #fff;
