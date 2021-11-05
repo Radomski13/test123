@@ -42,14 +42,24 @@ export default function Main() {
           <h1>What is Swampverse</h1> <br />
           <br />
           <div className="container">
-            <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. Tired, the genesis under looks a problem, their new home is so vast & unexplored they need help but with time running low. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
+            <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 
               <span>Swampverse Genesis</span> 
-<p>Genesis are 96 animated frogs from the Swampverse collection. The first of the Swampian race. To be released sometime after the main collection.</p><br />
-<li>The first 32 will be airdropped to holders.</li>
-<li>64 will be stealth dropped</li>
+<p>Swampverse Genesis were the first of there kind. Only ___ exist in the ecosystem. All animated one of ones with a custom background. Some of their utilities are are still being researched in the lab. All we know is:</p><br />
+<li>The first ___ will be airdropped to holders with a certain amount of $TOKEN.</li>
+<li>___ remaning will be stealth dropped to be purchased with ETH.</li>
+<li>They have access to Swamphalla. WOAH</li>
 <br />
-<p>Tip: a mysterious creature and 2 tadpoles will give you a better chance to get the airdrop</p>
+  <span>Swampverse Frogs</span> 
+<p>In order to expand & save the Swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only are these have sweet utility but act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak so they yield __ $TOKEN daily. Some of their other exciting utilities are: </p><br />
+<li>Fuse 2 Frogs to create a mysterious creature by spending __ $TOKEN.</li>
+<li>Unlock exclusive channels in the Swampverse Discord server.</li>
+<li>Have an vote in the community</li>
+<br />
+    <span>Mysterious Creature</span> 
+<p>These are still being researched @ the janky Swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. The City of Stars holds the technology used to read this.</p><br />
+<br />
+
           </div>
         </div>
 
@@ -59,11 +69,11 @@ export default function Main() {
           <div className="container">
             <p>TOKEN is important to the Swampconomy. As the universe grows more utility will be added. The mission of Swampverse extends further than a pixel PFP. It's about family, utility, and of course the main life source of any swampian, $TOKEN that lets us fuel our ecosystem the TRUE way, on the blockchain.</p><br /><br />
 <span>Yield</span>
-<p>Every Swampverse frog yields _ $token a day. A hard of croaking pays off.</p><br />
-<span>Breed</span>
-<p>Hold any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve an tad pole</p><br />
+<p>Every Swampverse frog yields _ $token a day. A hard day of croaking pays off.</p><br />
 <span>Fuse</span>
-<p>Swampverse Frogs arn't only used for breeding, Fuse any two Frogs with SWAMP RADIATION to receive a mysterious swamp creature. !lurk</p>
+<p>Fuse any two Swampverse Frogs in your wallet and burn _ $TOKEN to recieve a mysterious swamp creature. !lurk</p>
+<span>Shop</span>
+<p>Spend your $TOKENS at the Swampville merchandise store & get your gear on. Limited set of Hoodies, Shirts & a collectable.</p>
           </div>
         </div>
         <div className="gif-container border">
@@ -106,9 +116,8 @@ export default function Main() {
           <p>2100/2500 SPOTS FILLED</p>
           <br />
           <br />
-          <p>
-            A visual map will be available for Swampmap v1.
-          </p>
+          <span>HOW TO GET ON THE WHITELIST?</span>
+          <p>Engage with the commmunity by being helpful or participate in events hosted in discord/twitter.</p>
         </div>
 
         <div className="container border container-pd mb">
@@ -127,10 +136,10 @@ export default function Main() {
               25% - We host our fist twitter space. 10 random frogs will also be airdropped to holders.
             </li>
             <li>
-              50% - Get to the swamptree. You can now begin to croak for a token. A website will be available to stake or unstake your frog.
+              50% - You can now begin to croak for a token. A website will be available to stake (croak) or unstake (uncroak) your frog.
             </li>
             <li>
-              75% - 1st merchandise drop. Limited with only 50 of each item available. Community vote to ether sweep the floor or buy a bluechip for a giveaway to holders. 
+              75% - 1st merchandise drop. Limited to only 50 of each item. Community will also vote to ether sweep the floor or buy a bluechip for a host giveaway to holders. 
             </li>
             <li>
               100% - City of stars, the lore shows symbols of this vast utopia that still needs more deciphering. Let's host a IRL party to kill the time. Miami? Bali? LA?
