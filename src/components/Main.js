@@ -53,16 +53,16 @@ export default function Main() {
 <br /><br />
               <span>Genesis</span><br /><br /> 
 <p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
-<li>The first ___ will be airdropped to holders with a certain amount of $TOKEN.</li>
-<li>___ remaning will be stealth dropped to be purchased with ETH.</li>
-<li>They have access to Swamphalla. WOAH</li>
+<li>The first 32 will be airdropped to holders with a certain amount of $TOKEN.</li>
+<li>64 remaning will be stealth dropped to be purchased with ETH.</li>
+<li>All genesis access to Swamphalla.</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
-<li>Fuseing any 2 frogs together for a mysterious creature.</li>
+<li>Fuse any 2 frogs together for a mysterious creature with $TOKEN .</li>
 <li>Unlocking exclusive channels in the Discord server.</li>
 <li>Having an vote in the community.</li>
-<li>Unlocking a 3D / VX version by using _ $TOKEN.</li>
+<li>Unlock a 3D / VX version by using _ $TOKEN.</li>
 <li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
