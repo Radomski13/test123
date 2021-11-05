@@ -56,6 +56,7 @@ export default function Main() {
 <li>Only 32 will be airdropped to holders who hold a certain amount of $TOKEN.</li>
 <li>The 64 remaning will be stealth dropped.</li>
 <li>Gain access to Swamphalla.</li>
+<li>Release sometime in Swampmap v1.</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
@@ -137,10 +138,10 @@ export default function Main() {
           <h1>SWAMPMAP v1</h1> <br />
           <br />
           <div className="in-progress-list">
-              <span>25%</span> <p>Complete minting of all 9600 frogs. Opensea reveal after sell out & rarity.tools listing.</p>
-              <span>50%</span> <p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p>
-              <span>75%</span> <p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p>
-              <span>100%</span> <p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p>
+              <span>25%</span> <br /><br /><p>Complete minting of all 9600 frogs. Opensea reveal after sell out & rarity.tools listing.</p>
+              <span>50%</span> <br /><br /><p>We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p>
+              <span>75%</span> <br /><br /><p>You can now begin to croak. A mobile friendly portal will be available to stake (croak) or unstake (uncroak) your frog. Croak for $TOKEN!</p>
+              <span>100%</span> <br /><br /><p>The lore shows symbols of high-tech utopia. Let's host a IRL party to kill the time. The lore still needs deciphering. Miami? Bali? LA?</p>
           </div>
           <br />
         </div>
