@@ -1,0 +1,288 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+@font-face {
+	font-family: PressStart;
+	src: url(../font/press-start-2p-v9-latin-regular.ttf);
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+img {
+	width: 100%;
+}
+body {
+	background-color: #2c5e8a;
+	font-family: "PressStart";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	color: white;
+}
+.root-container {
+	position: relative;
+	max-width: 1000px;
+	margin: auto;
+}
+.container {
+	max-width: 950px;
+	margin: auto;
+	background: #326693;
+}
+.container p {
+	line-height: 1.3rem;
+}
+.container li {
+	color: #fff;
+}
+.bg-container {
+	background-color: #326693;
+}
+.border {
+	border: 5px solid white;
+}
+.container-pd {
+	padding: 50px;
+}
+.mb {
+	margin-bottom: 50px;
+}
+.text-center {
+	text-align: center;
+}
+.container h2 {
+	font-size: 24px;
+}
+.container h1 {
+	font-size: 40px;
+	letter-spacing: 2px;
+}
+.site-heading h1 {
+	font-size: 48px;
+	letter-spacing: 5px;
+	padding: 70px 0px;
+	color: white;
+	text-align: center;
+}
+.gif-container {
+	max-width: 400px;
+	margin: 50px auto;
+}
+.container-flex {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 10px;
+}
+.community-img img {
+	width: 100px;
+}
+.vote-img img {
+	width: 130px;
+}
+.present-img img {
+	width: 170px;
+}
+.game-img img {
+	width: 120px;
+}
+.social-container {
+	max-width: 400px;
+	margin: 50px auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.social-icon {
+	display: flex;
+	align-items: center;
+	margin-top: 2rem;
+}
+.social-icon img {
+	width: 60px;
+	margin: 0px 1rem;
+}
+
+.faq span {
+	font-size: 24px;
+	line-height: 20px;
+	font-family: "VT323", monospace;
+	letter-spacing: 3px;
+	line-height: 1.2;
+	color: #fff;
+}
+
+.in-progress-list {
+	margin: 10px 0px;
+}
+.in-progress-list li {
+	padding: 5px 0px;
+	font-size: 21px;
+	color: #fff;
+	font-family: "VT323", monospace;
+}
+
+.builders {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	padding: 2rem 0rem;
+	max-width: 850px;
+	margin: auto;
+}
+.builder {
+	flex-direction: column;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-basis: 30%;
+}
+.builder-img {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	min-height: max-content;
+	border-radius: 50%;
+	margin: 20px 0;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.first {
+	background-image: url(../img/oxwart.png);
+}
+.second {
+	background-image: url(../img/ogre.png);
+}
+.third {
+	background-image: url(../img/junkiee.png);
+}
+.fourth {
+	background-image: url(../img/ogre.png);
+}
+.builder-info {
+	padding: 0.5rem;
+}
+.builder-info h3 {
+	color: #fff;
+}
+.builder-info span {
+	color: #fff;
+}
+.info {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.info img {
+	width: 35px;
+	margin-left: 10px;
+}
+
+.swampboat {
+	position: relative;
+}
+.swampboat-img {
+	width: 100%;
+	background: url(../img/swampboat.gif) no-repeat center;
+	background-size: cover;
+	min-height: 80vh;
+	/* padding-top: 80%; */
+}
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.8);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.header-container {
+	max-width: 850px;
+	margin: auto;
+	/* padding: 0px 1rem; */
+}
+.header-container p {
+	line-height: 1.5rem;
+}
+
+@media (max-width: 420px) {
+	.site-heading h1 {
+		font-size: 2rem;
+	}
+	.container-pd {
+		padding: 35px 24px;
+	}
+	.root-container {
+		padding: 0.5rem;
+	}
+	.container h2 {
+		font-size: 18px;
+		line-height: 24px;
+	}
+	.container-flex {
+		display: block;
+	}
+	.community-img,
+	.vote-img,
+	.present-img,
+	.game-img {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-top: 1rem;
+	}
+	.container h1 {
+		font-size: 28px;
+		letter-spacing: 2px;
+	}
+	.builders {
+		align-items: center;
+		justify-content: center;
+		display: block;
+	}
+	.builder-info {
+		padding: 0.5rem 1.3rem;
+	}
+}
+@media (max-width: 380px) {
+	.site-heading h1 {
+		font-size: 24px;
+	}
+	.container h1 {
+		font-size: 22px;
+		letter-spacing: 2px;
+	}
+	.social-container h2 {
+		font-size: 22px;
+		text-align: center;
+	}
+}
+
+@media (max-width: 320px) {
+	.container h1 {
+		font-size: 18px;
+		letter-spacing: 2px;
+	}
+	.container-pd {
+		padding: 35px 1rem;
+	}
+	.site-heading h1 {
+		font-size: 22px;
+	}
+	.header-container p {
+		line-height: 16px;
+	}
+}
