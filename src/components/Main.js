@@ -194,7 +194,6 @@ export default function Main() {
               <br />
               <p>Marketing / NFT Analyst</p>
             </div>
-<p>Banner & Swampmap made by jDojo <3</p>
           </div>
         </div>
       </div>
