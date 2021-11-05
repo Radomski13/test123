@@ -53,9 +53,9 @@ export default function Main() {
 <br /><br />
               <span>Genesis Frogs</span><br /><br /> 
 <p>The genesis are the first of there kind. Only 96 exist in the universe. Every single genesis is a one of one fully animated with a animated background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
-<li>The first 32 will be airdropped to holders with a certain amount of $TOKEN.</li>
-<li>64 remaning will be stealth dropped to be purchased with ETH.</li>
-<li>All genesis access to Swamphalla.</li>
+<li>Only 32 will be airdropped to holders with a certain amount of $TOKEN.</li>
+<li>The 64 remaning will be stealth dropped.</li>
+<li>All genesis have access to Swamphalla.</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
 <p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
@@ -66,7 +66,7 @@ export default function Main() {
 <li>Yield _ $TOKEN a day.</li>
 <br /><br /><br />
     <span>Mysterious Creature</span><br /><br /> 
-<p>These are still being researched at the janky swampville lab on what they exactly do. The lore shows a different name for them that seems unreadable. Only the Utopia holds the technology used to decipher this.</p><br />
+<p>These mysterious swamp creatures are still being researched at the janky swampville lab on what they exactly do. The lore shows a name for them but it seems unreadable. Only the Utopia holds technology used to decipher the Lore.</p><br />
 <br />
 
           </div>
