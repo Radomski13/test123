@@ -26,7 +26,10 @@ export default function Main() {
           </div>
         </div>
           <div className="header-container container-pd mb text-center">
-          <a href="https://swamps.io/#"><img src={mint} width="80%" height="80%" alt="mint" /></a>
+          <p>Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
+            Join a strong tight-knit community and enjoy utility/benefits only
+            to swampverse holders. Our goal is to help anyone journey their way
+            into the NFT world successfully while having fun.</p><br /><a href="https://swamps.io/#"><img src={mint} width="80%" height="80%" alt="mint" /></a>
         </div>
         </div>
       </div>
@@ -44,14 +47,10 @@ export default function Main() {
 <br /> 
   
 <div className="container border container-pd mb">
-          <h1>What is Swampverse</h1> <br />
+          <h1>About Swampverse</h1> <br />
           <br />
           <div className="container">
-            <p>Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
-            Join a strong tight-knit community and enjoy utility/benefits only
-            to swampverse holders. Our goal is to help anyone journey their way
-            into the NFT world successfully while having fun.</p><br /><br /><br />
-              <span>About Swampverse</span><br /><br />
+
             <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. While tired from years of exploration the genesis under look a problem, their new home is so vast & unexplored they need help but. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 <br /><br />
               <span>Genesis</span><br /><br /> 
