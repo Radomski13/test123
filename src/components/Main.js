@@ -125,11 +125,9 @@ export default function Main() {
           <br />
           <br />
           <span>WHITELIST?</span>
-          <p>2100/2500 SPOTS FILLED</p>
+          <p>2200/2500 SPOTS FILLED</p>
           <br />
           <br />
-          <span>HOW TO GET ON THE WHITELIST?</span>
-          <p>Engage with the commmunity by being helpful or participate in events hosted in discord/twitter.</p>
         </div>
 
         <div className="container border container-pd mb">
