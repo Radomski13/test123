@@ -24,9 +24,8 @@ export default function Main() {
             </a>
           </div>
         </div>
-<span>RELEASE DATE: TBA</span>
           <div className="header-container container-pd mb text-center">
-          <p>Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
+          <p>Release Date: TBA<br /><br />Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
             Enjoy utility & benefits only to swampverse holders. Our goal is to help anyone journey their way
             into the NFT world successfully. Join the strong tight-knit community today & have fun!</p><br />
         </div>
