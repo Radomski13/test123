@@ -27,9 +27,8 @@ export default function Main() {
         </div>
           <div className="header-container container-pd mb text-center">
           <p>Swampverse is the home of 9600 pixel generated frogs that croak on the Ethereum blockchain. 
-            Join a strong tight-knit community and enjoy utility/benefits only
-            to swampverse holders. Our goal is to help anyone journey their way
-            into the NFT world successfully while having fun.</p><br />
+            Enjoy utility & benefits only to swampverse holders. Our goal is to help anyone journey their way
+            into the NFT world successfully. Join the strong tight-knit community today & have fun!</p><br />
         </div>
         </div>
       </div>
