@@ -107,14 +107,19 @@ export default function Main() {
         <div className="container border container-pd mb faq">
           <h1>FAQ</h1> <br />
           <br />
-          <span>MINT DATE?</span>
+          <span>PUBLIC MINT DATE?</span>
           <br />
           <p>To Be Announced</p>
           <br />
           <br />
+             <span>WHITELIST MINT DATE?</span>
+          <br />
+          <p>24 Hours prior to public</p>
+          <br />
+          <br />
           <span>HOW MANY IN TOTAL?</span>
           <br />
-          <p>9600</p>
+          <p>9600 Frogs</p>
           <br />
           <br />
           <span>BLOCKCHAIN?</span>
@@ -129,7 +134,12 @@ export default function Main() {
           <br />
           <span>WHITELIST?</span>
           <br />
-          <p>2200 / 2500 spots filled. 1000 public alert mint spots will be available after whitelist is full.</p>
+          <p>2200 / 2500 spots filled.</p>
+          <br />
+          <br />
+            <span>$TOKEN?</span>
+          <br />
+          <p>The name will be announced before mint date.</p>
           <br />
           <br />
         </div>
@@ -138,9 +148,9 @@ export default function Main() {
           <h1>SWAMPMAP v1</h1> <br />
           <br />
           <div className="in-progress-list">
-              <span>25% - Succesful Launch</span> <br /><p>Complete minting of all 9600 frogs. Opensea reveal after sell out. Rarity.tools listing.</p><br /><br />
-              <span>50% - Swampville is open</span> <br /><p>Private discord sections unlock. We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p><br /><br />
-              <span>75% - HODL</span> <br /><p>Merchandise store opens for swampverse holders. 50% of the merchandise will be given awayaway. More information of staking becomes available.</p><br /><br />
+              <span>25% - Success</span> <br /><p>Complete minting of all 9600 frogs. Opensea reveal after sell out. Rarity.tools listing.</p><br /><br />
+              <span>50% - Swampville</span> <br /><p>Private discord sections unlock. We host our fist AMA on reddit & discord. 10 random frogs will be airdropped to holders.</p><br /><br />
+              <span>75% - HODL</span> <br /><p>Merchandise store opens for swampverse holders. 50% of the merchandise will be given away to holders. More information of staking becomes available.</p><br /><br />
               <span>100% - !CROAK</span> <br /><p>You can now stake for $TOKEN! A mobile friendly portal will be available where you can stake (croak) or unstake (uncroak) your frog. Let's host a IRL party while frogs croak. Miami? Bali? LA? Swampmap v2 sneak peaks.</p><br /><br />
           </div>
           <br />
