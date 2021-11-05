@@ -36,12 +36,13 @@ export default function Main() {
             into the NFT world successfully while having fun.
           </p>
         </div> */}
-<br />        
+<br /> 
+  
 <div className="container border container-pd mb">
           <h1>What is Swampverse</h1> <br />
           <br />
           <div className="container">
-            <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. Tired, the genesis under looks a problem, their new home is so vast & unexplored they need help but with time running low. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....<br />
+            <p>Not so long ago, genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. Tired, the genesis under looks a problem, their new home is so vast & unexplored they need help but with time running low. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique frogs. Everyone will once again live, croak and prosper together. But the journey just begins. The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone will gather in Swampville to explore and conquer what comes next....</p><br />
 
               <span>Swampverse Genesis</span> 
 <p>Genesis are 96 animated frogs from the Swampverse collection. The first of the Swampian race. To be released sometime after the main collection.</p><br />
@@ -51,6 +52,7 @@ export default function Main() {
 <p>Tip: a mysterious creature and 2 tadpoles will give you a better chance to get the airdrop</p>
           </div>
         </div>
+
 <div className="container border container-pd mb">
           <h1>Utility</h1> <br />
           <br />
