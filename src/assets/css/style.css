@@ -119,10 +119,11 @@ p {
 	margin: 10px 0px;
 }
 .in-progress-list li {
-	padding: 5px 0px;
-	font-size: 21px;
+color: #fff;
+font-family: "Roboto",sans-serif;
+}
+.in-progress-list span {
 	color: #fff;
-	font-family: "VT323", monospace;
 }
 
 .builders {
