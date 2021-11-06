@@ -49,7 +49,10 @@ export default function Main() {
           <br />
           <div className="container">
 
-            <p>Not so long ago, the Genesis frogs roamed the universe in hopes of finding a home. What seemed like eternity, they eventually find an abandoned swamp. In hope of saving the Swampian race, they decide to make this their new home. They call it Swampverse. In the years of exploration the genesis never seen a universe so vast & unexplored. Combining there DNA together with what !vibe they have left, they fuse and spawn 9600 unique Swampverse Frogs. Every frog will once again live, croak and prosper together. But the journey just begins, The genesis are out of !vibe; they have to ascend into Swamphalla to rest. Leaving the frogs with a lore to decipher. Everyone  gather's in Swampville to explore and conquer what comes next....</p><br />
+            <p>In hopes of saving the rare Swampian race, the Genesis frogs were tasked with finding a new place to settle and call home. After what felt like an eternity of roaming and browsing the universe the Genesis frogs discovered an abandoned swamp, with enough potential to support the future of the Swampanian race. This breathtaking marshland would forever be known as the Swampverse. A swamp, unlike any other in the universe, with copious greenery, saturated soils, and a vast environment to evolve. With a home secure, the Genesis strategically combined their DNA with the remaining !vibe to produce, the first and last generation, of 9600 distinctive Swampverse frogs. Each individual frog will live its life, but they will prosper together as an ecosystem. </p><br /><br />
+              <p>However, the journey has just started.</p><br /><br />
+                <p>The Genesis are out of !vibe, and they are ascending into Swamphalla to rest after fulfilling their noble duty. The 9600 frogs are left to decipher The Lore, and work together to conquer their biggest challenge …….</p>
+               
 <br /><br />
               <span>Genesis Frogs</span><br /><br /> 
 <p>The genesis are the first of there kind. Only 96 exist in the universe. All genesis are 1 of 1's, fully animated, inlcuding the background as well. Their utility is still being researched at the lab in Utopia. All we know is:</p><br />
