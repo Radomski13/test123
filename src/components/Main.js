@@ -62,7 +62,7 @@ export default function Main() {
 <li>Release sometime in Swampmap v1.</li>
 <br /><br /><br />
   <span>Frogs</span><br /><br /> 
-<p>In order to expand & save the swampian race the Genesis fused there DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
+<p>In order to expand & save the swampian race the Genesis fused their DNA toghter and created 9600 unique frogs. Not only these have sweet utility but they act as a profile pic being able to perfectly size for anything from Discord to Twitter. Frogs love to croak which generates a $TOKEN. Some of their other exciting utilities are: </p><br />
 <li>Burn any 2 frogs together for a mysterious creature with X $TOKEN.</li>
 <li>Unlock exclusive channels in the Discord server.</li>
 <li>Have a vote in the community.</li>
@@ -97,8 +97,8 @@ export default function Main() {
           <h1>The Future</h1> <br />
           <br />
           <div className="container">
-            <p>The Swampverse brand is filled with unique and randomly generated pixel creatures for your online experiences. Gamified collectibles with utility. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to unlock a 3D / VX version of your frog with $TOKEN. The Sandbox & Metaverse opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
-              It is our goal to innovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on some the future that the Swampverse creators will propose. We plan on interacting with Sandbox and other blockchain games. Hosting IRL events. Collaborate with other projects & much more we don't want to spoil.</p>
+            <p>The Swampverse brand is filled with unique and randomly generated pixel creatures for your online experiences. Gamified collectibles with utility in IRL & the NFT world. They are intended to be avatars for both the two-dimensional space as well as playable avatars on platforms such as The Sandbox. You will be able to unlock a 3D / VX version of your frog with $TOKEN. The Sandbox & Metaverse opens up the possibility for the community to create community games, adventures and experience with their uniquely owned Swampverse VX avatars.<br /><br />
+              <br />It is our duty to innovate with the NFT space and push the Swampverse brand into the right direction. The community will be able to vote on future plans the Swampverse creators will propose. We plan on interacting with The Sandbox, blockchain games, hosting events, collaborating with other projects & much more.</p>
           </div>
         </div>
         <div className="gif-container border">
