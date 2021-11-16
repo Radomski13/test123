@@ -19,7 +19,7 @@ export default function Main() {
             <a href="https://twitter.com/SwampverseNFT">
               <img src={twitter_icon} alt="twitter" />
             </a>
-            <a href="https://discord.gg/swampverse">
+            <a href="https://discord.gg/UzRt8md2">
               <img src={discord_icon} alt="discord" />
             </a>
           </div>
